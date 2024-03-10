@@ -1,4 +1,5 @@
-import { API_KEY } from '../env.ts'
+
+const API_KEY = '1fb14fa2bc8ee031f4d4971e';
 
 interface Data {
   conversion_rates: Record<string, number>;
